@@ -1,4 +1,4 @@
-# pc_lsdwp1
+# pc_lsdwp
 Los Santos Departament of Water and Power
 
 Please check RELEASES for updated and old versions
